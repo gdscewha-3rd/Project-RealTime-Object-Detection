@@ -56,6 +56,6 @@
 - [x] Deepsort Algorithm으로 Tracking, Detecting, Bounding Box 구현
 
 ### 6월
-- [ ] 특정 ArUco marker를 지닌 사용자 스위칭 기능
+- [x] 특정 ArUco marker를 지닌 사용자 스위칭 기능
 - [ ] Person-Robot Interaction Algorithm 구현
 - [ ] Corner Algorithm 구현
